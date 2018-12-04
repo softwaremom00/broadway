@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.ProcessElementHeader {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+
+#main_heading{
+  font-size: 70px;
+  font-weight: bold;
+  color:white;
+
+}
+#navbar {
+  background-color: black;
+  background-image: url("../images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+#navbar a{
+  font-size: 18px;
+  color: white;
+}
+
+#second_heading{
+  font-size: 32px;
+  font-weight: bold;
+  color: gray;
+}
