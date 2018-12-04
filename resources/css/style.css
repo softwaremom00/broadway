@@ -6,8 +6,13 @@ body {
 .ProcessElementHeader {
   font-size: 23px;
   font-weight: bold;
+  color: black;
 }
 
+.ProcessElementHeader p{
+  font-size: 14px;
+  color: black;
+}
 
 #main_heading{
   font-size: 70px;
@@ -21,13 +26,32 @@ body {
   background-repeat: no-repeat;
   background-size:cover;
 }
-#navbar a{
+#navtext {
   font-size: 18px;
   color: white;
 }
+#footernavtext {
+  font-size: 14px;
+  color: white;
+  font-weight: bold;
+}
+
 
 #second_heading{
   font-size: 32px;
   font-weight: bold;
-  color: gray;
+  color: black;
+}
+#DesignLocation{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+#footer {
+  font-size: 11px;
+  text-align: left;
+  color: white;
+  background-color: dimgray;
 }
